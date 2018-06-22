@@ -2,7 +2,7 @@
   "name": "grunt-jswrap",
   "title": "Grunt try-catch wrapper",
   "description": "Wraps every function in the try-catch statement",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "homepage": "https://github.com/grimalschi/grunt-jswrap",
   "author": {
     "name": "Veaceslav Grimalschi",
@@ -21,7 +21,7 @@
     }
   ],
   "dependencies": {
-    "jswrap": "^0.1.2"
+    "jswrap": "^0.2.0"
   },
   "keywords": [
     "gruntplugin"
